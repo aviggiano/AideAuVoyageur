@@ -1,4 +1,4 @@
-xbee
+Aide Au Voyageur
 ====
 
-Xbee Listener (Projet Transverse NEZ) - École Centrale Marseille
+Système expert Java de suggestion de destinations de voyage
